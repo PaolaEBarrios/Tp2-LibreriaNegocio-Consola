@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1639634926 source:c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<ctime>
+	<locale.h>
+	"Clases.h"
+	"checks.h"
+	"Prototipos.h"
+	"Fecha.h"
+	"Menus.h"
+	"Configuracion.h"
+	"Libro.h"
+	"Clientes.h"
+	"Venta.h"
+
+1639544999 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\clases.h
+
+1639625796 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\prototipos.h
+
+1639593377 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\menus.h
+
+1639430218 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\libro.h
+
+1637645593 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\checks.h
+
+1639637786 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\configuracion.h
+
+1639549540 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\fecha.h
+
+1639429739 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\libelectronico.h
+
+1639637451 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\clientes.h
+
+1639637343 c:\users\pbarr\onedrive\escritorio\utn 2021\lab2\tp final lab2 2021\paolabarrios\venta.h
+
